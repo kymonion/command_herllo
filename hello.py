@@ -1,2 +1,2 @@
 print("Helllllooo world")
-print("get out")
+print("Tell your world")
